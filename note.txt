@@ -1,0 +1,30 @@
+Laravel 
+-MVC framework
+-Route
+-command line interface
+-OOP (Class/Object)
+
+-Route 
+    -web routes
+    -route/web.php
+    -route -> view
+    -route -> controller -> view
+
+=> Requirment Gathering
+=> Flow Chart
+=> business Flow Chart
+=> Class Diagram
+=> Database Structure
+
+MVC
+-model (one table -> class)
+-view (html/blade)
+-controller (class)
+
+CRUD(view for user)
+-table(list)
+-add form(only form)
+-edit form(form and old data)
+-detail ui
+
+
